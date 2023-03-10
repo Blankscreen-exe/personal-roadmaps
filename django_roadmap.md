@@ -2,78 +2,76 @@
 This roadmap is designed to help you learn Django from the basics to advanced concepts. The roadmap includes various topics, resources, and tasks to help you get started with Django.
 
 ## Basic Concepts
-
 1. Python basics
-   - [ ] Learn Python: Codecademy
-   - [ ] Python tutorials: Python.org
-
+   - [ ] Learn Python
+   - [ ] Python tutorials
 2. Understanding Django
-   - [ ] Introduction to Django: Django's Official Documentation
-   - [ ] Django tutorials: Django Girls
+   - [ ] Introduction to Django
+   - [ ] Django tutorials
 3. Setting up a development environment
-   - [ ] Install Python and Django: Django's Official Documentation
-   - [ ] Set up a virtual environment: Python's Official Documentation
+   - [ ] Install Python and Django
+   - [ ] Set up a virtual environment
 4. Creating a new Django project
-   - [ ] Start a new Django project: Django's Official Documentation
-   - [ ] Understanding Django's project structure: Django's Official Documentation
+   - [ ] Start a new Django project
+   - [ ] Understanding Django's project structure
 
 ## Database and Models
 1. Introduction to databases
-   - [ ] Introduction to SQL: Codecademy
-   - [ ] SQL tutorials: SQL Zoo
+   - [ ] Introduction to SQL
+   - [ ] SQL tutorials
 2. Django models
-   - [ ] Django models overview: Django's Official Documentation
-   - [ ] Creating models: Django's Official Documentation
+   - [ ] Django models overview
+   - [ ] Creating models
 3. Database migrations
-   - [ ] Introduction to database migrations: Django's Official Documentation
-   - [ ] Creating and running migrations: Django's Official Documentation
+   - [ ] Introduction to database migrations
+   - [ ] Creating and running migrations
 
 ## Views, Templates, and Forms
 
 1. Django views
-   - [ ] Introduction to views: Django's Official Documentation
-   - [ ] Creating views: Django's Official Documentation
+   - [ ] Introduction to views
+   - [ ] Creating views
 2. Django templates
-   - [ ] Introduction to templates: Django's Official Documentation
-   - [ ] Creating templates: Django's Official Documentation
+   - [ ] Introduction to templates
+   - [ ] Creating templates
 3. Django forms
-   - [ ] Introduction to forms: Django's Official Documentation
-   - [ ] Creating forms: Django's Official Documentation
+   - [ ] Introduction to forms
+   - [ ] Creating forms
 
 ## Authentication and Authorization
 1. Django authentication
-   - [ ] Introduction to authentication: Django's Official Documentation
-   - [ ] Creating a login system: Django's Official Documentation
+   - [ ] Introduction to authentication
+   - [ ] Creating a login system
 2. Django authorization
-   - [ ] Introduction to authorization: Django's Official Documentation
-   - [ ] Creating permissions and authorization: Django's Official Documentation
+   - [ ] Introduction to authorization
+   - [ ] Creating permissions and authorization
 
 ## Django REST Framework
 1.  Introduction to Django REST Framework
-    - [ ] Overview of Django REST Framework: Django REST Framework
-    - [ ] Getting started with Django REST Framework: Django REST Framework
+    - [ ] Overview of Django REST Framework
+    - [ ] Getting started with Django REST Framework
 2. Serializers and Views
-   - [ ] Serializers: Django REST Framework
-   - [ ] Views: Django REST Framework
+   - [ ] Serializers
+   - [ ] Views
 3. Authentication and Permissions
-   - [ ] Authentication: Django REST Framework
-   - [ ] Permissions: Django REST Framework
+   - [ ] Authentication
+   - [ ] Permissions
 
 ## Advanced Concepts
 1. Django signals
-   - [ ] Introduction to signals: Django's Official Documentation
-   - [ ] Creating signals: Django's Official Documentation
+   - [ ] Introduction to signals
+   - [ ] Creating signals
 2. Caching
-   - [ ] Introduction to caching: Django's Official Documentation
-   - [ ] Using caching in Django: Django's Official Documentation
+   - [ ] Introduction to caching
+   - [ ] Using caching in Django
 3. Asynchronous support
-   - [ ] Introduction to asynchronous support in Django: Django's Official Documentation
-   - [ ] Using asynchronous support in Django: Django's Official Documentation
+   - [ ] Introduction to asynchronous support in Django
+   - [ ] Using asynchronous support in Django
 
 ## Deployment
 1. Hosting options
-   - [ ] Popular hosting services: Heroku, PythonAnywhere
-   - [ ] Hosting Django on a VPS: DigitalOcean
+   - [ ] Popular hosting services
+   - [ ] Hosting Django on a VPS
 2. Deployment checklist
-   - [ ] Preparing your Django project for deployment: Django's Official Documentation
-   - [ ] Deploying Django with Gunicorn and Nginx: Django's Official Documentation
+   - [ ] Preparing your Django project for deployment
+   - [ ] Deploying Django with Gunicorn and Nginx
