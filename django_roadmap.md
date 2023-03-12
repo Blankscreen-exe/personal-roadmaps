@@ -3,39 +3,39 @@ This roadmap is designed to help you learn Django from the basics to advanced co
 
 ## Basic Concepts
 1. Python basics
-   - [ ] Learn Python
-   - [ ] Python tutorials
+   - [x] Learn Python
+   - [x] Python tutorials
 2. Understanding Django
-   - [ ] Introduction to Django
-   - [ ] Django tutorials
+   - [x] Introduction to Django
+   - [x] Django tutorials
 3. Setting up a development environment
-   - [ ] Install Python and Django
-   - [ ] Set up a virtual environment
+   - [x] Install Python and Django
+   - [x] Set up a virtual environment
 4. Creating a new Django project
-   - [ ] Start a new Django project
-   - [ ] Understanding Django's project structure
+   - [x] Start a new Django project
+   - [x] Understanding Django's project structure
 
 ## Database and Models
 1. Introduction to databases
-   - [ ] Introduction to SQL
-   - [ ] SQL tutorials
+   - [x] Introduction to SQL
+   - [x] SQL tutorials
 2. Django models
-   - [ ] Django models overview
-   - [ ] Creating models
+   - [x] Django models overview
+   - [x] Creating models
 3. Database migrations
-   - [ ] Introduction to database migrations
-   - [ ] Creating and running migrations
+   - [x] Introduction to database migrations
+   - [x] Creating and running migrations
 
 ## Views, Templates, and Forms
 
 1. Django views
-   - [ ] Introduction to views
-   - [ ] Creating views
+   - [x] Introduction to views
+   - [x] Creating views
 2. Django templates
-   - [ ] Introduction to templates
-   - [ ] Creating templates
+   - [x] Introduction to templates
+   - [x] Creating templates
 3. Django forms
-   - [ ] Introduction to forms
+   - [x] Introduction to forms
    - [ ] Creating forms
 
 ## Authentication and Authorization
