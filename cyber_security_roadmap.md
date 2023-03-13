@@ -9,8 +9,8 @@
 
 # Level 1 - Intro
 
-- [ ] OpenVPN https://tryhackme.com/room/openvpn
-- [ ] Welcome https://tryhackme.com/jr/welcome
+- [x] OpenVPN https://tryhackme.com/room/openvpn
+- [x] Welcome https://tryhackme.com/jr/welcome
 - [ ] Intro to Researching https://tryhackme.com/room/introtoresearch
 - [ ] The Hacker Methodology https://tryhackme.com/room/hackermethodology
 - [x] Learn Linux https://tryhackme.com/module/linux-fundamentals
