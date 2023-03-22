@@ -40,8 +40,8 @@ This roadmap is designed to help you learn Django from the basics to advanced co
 
 ## Authentication and Authorization
 1. Django authentication
-   - [ ] Introduction to authentication
-   - [ ] Creating a login system
+   - [x] Introduction to authentication
+   - [x] Creating a login system
 2. Django authorization
    - [ ] Introduction to authorization
    - [ ] Creating permissions and authorization
