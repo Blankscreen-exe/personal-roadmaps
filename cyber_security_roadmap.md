@@ -1,11 +1,6 @@
-### Keys
-👍 = Completed.
+# Cyber Security Roadmap
 
-⏳ = In progress.
-
-🔴 = Stopped, depends on other tasks, depends on knowledge from other rooms.
-
----
+> Note: actually found it [here](https://tryhackme.com/resources/blog/free_path)
 
 # Level 1 - Intro
 
