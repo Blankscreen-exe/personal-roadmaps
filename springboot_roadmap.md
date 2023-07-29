@@ -1,15 +1,15 @@
 # Spring Boot
 
 ## Part 1: Introduction to Spring Boot
-- [ ] What is Spring Boot?
+- [x] What is Spring Boot?
 - [ ] Advantages of Spring Boot over other Java frameworks
-- [ ] Installing Spring Boot
-- [ ] Setting up a new Spring Boot project
+- [x] Installing Spring Boot
+- [x] Setting up a new Spring Boot project
 
 ## Part 2: Java Essentials for Spring Boot
-- [ ] Java basics: syntax, variables, data types, operators, loops, and conditional statements
-- [ ] Object-oriented programming (OOP) in Java: classes, objects, inheritance, polymorphism, and interfaces
-- [ ] Understanding Java collections: arrays, lists, maps, and sets
+- [x] Java basics: syntax, variables, data types, operators, loops, and conditional statements
+- [x] Object-oriented programming (OOP) in Java: classes, objects, inheritance, polymorphism, and interfaces
+- [x] Understanding Java collections: arrays, lists, maps, and sets
 - [ ] Exception handling in Java
 
 ## Part 3: Spring Boot Basics
